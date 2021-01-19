@@ -21,7 +21,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Ped.public_email_domain?('gmail.com')
+#=> true
+
+Ped.public_email_domain?('jetrockets.pro')
+#=> false
+```
 
 ## Development
 
