@@ -13,11 +13,15 @@ gem 'ped'
 
 And then execute:
 
+```bash
   $ bundle install
+```
 
 Or install it yourself as:
 
+```bash
   $ gem install ped
+```
 
 ## Usage
 
