@@ -1,3 +1,6 @@
+[![Gem Version](https://badge.fury.io/rb/ped.svg)](https://badge.fury.io/rb/ped)
+[![Build Status](https://github.com/igor-alexandrov/ped/workflows/Build/badge.svg?branch=master)](https://github.com/igor-alexandrov/ped/actions)
+
 # PED
 
 PED – check you email domain over list of Public Email Domains.
