@@ -1,10 +1,7 @@
-[![Gem Version](https://badge.fury.io/rb/ped.svg)](https://badge.fury.io/rb/ped)
-[![Build Status](https://github.com/igor-alexandrov/ped/workflows/Build/badge.svg?branch=master)](https://github.com/igor-alexandrov/ped/actions)
-
 # PED
 
 PED – check you email domain over list of Public Email Domains.
-Based on data from this GIST [https://gist.github.com/tbrianjones/5992856](https://gist.github.com/tbrianjones/5992856).
+Based on data from this GIST [https://gist.github.com/okutbay/5b4974b70673dfdcc21c517632c1f984](https://gist.github.com/okutbay/5b4974b70673dfdcc21c517632c1f984).
 
 ## Installation
 
@@ -34,6 +31,12 @@ Ped.public_email_domain?('gmail.com')
 
 Ped.public_email_domain?('jetrockets.pro')
 #=> false
+```
+
+## Update domains
+
+```bash
+  $ ./update.sh
 ```
 
 ## Development
