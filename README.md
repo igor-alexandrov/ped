@@ -4,7 +4,6 @@
 # PED
 
 PED – check you email domain over list of Public Email Domains.
-Based on data from this GIST [https://gist.github.com/tbrianjones/5992856](https://gist.github.com/tbrianjones/5992856).
 
 ## Installation
 
