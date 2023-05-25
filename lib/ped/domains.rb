@@ -447,7 +447,6 @@ module Ped
     akash9.gq
     akerd.com
     akgq701.com
-    ak47.hu
     aklqo.com
     aknet.kg
     akorde.al
@@ -523,7 +522,6 @@ module Ped
     alumni.com
     alumnidirector.com
     alumnimp3.xyz
-    alvilag.hu
     ama-trade.de
     ama-trans.de
     amadamus.com
@@ -1847,7 +1845,6 @@ module Ped
     droplister.com
     dropmail.me
     dropzone.com
-    drotposta.hu
     drynic.com
     dsiay.com
     dslextreme.com
@@ -2126,7 +2123,6 @@ module Ped
     ephemeral.email
     epix.net
     epost.de
-    eposta.hu
     eqeqeqeqe.tk
     eqiluxspam.ga
     eqqu.com
@@ -2684,7 +2680,6 @@ module Ped
     gee-wiz.com
     geecities.com
     geek.com
-    geek.hu
     geeklife.com
     geew.ru
     gehensiemirnichtaufdensack.de
@@ -2819,7 +2814,6 @@ module Ped
     gonavy.net
     goodjab.club
     goodstick.com
-    google.com
     googdad.tk
     googlemail.com
     goooogle.flu.cc
@@ -2916,8 +2910,6 @@ module Ped
     guy.com
     guy2.com
     guyanafriends.com
-    gyorsposta.com
-    gyorsposta.hu
     gwspt71.com
     gynzi.co.uk
     gynzi.es
@@ -3004,7 +2996,6 @@ module Ped
     heerschap.com
     heesun.net
     hehe.com
-    hello.hu
     hello.net.au
     hello.to
     hellodream.mobi
@@ -3626,7 +3617,6 @@ module Ped
     ketiksms.club
     key-mail.net
     keyemail.com
-    kgb.hu
     khosropour.com
     khtyler.com
     kiani.com
@@ -3791,7 +3781,6 @@ module Ped
     letterbox.com
     letthemeatspam.com
     levele.com
-    levele.hu
     lex.bg
     lexis-nexis-mail.com
     lexisense.com
@@ -3974,7 +3963,6 @@ module Ped
     madcreations.com
     madonnafan.com
     madrid.com
-    maffia.hu
     madsen.dk
     magamail.com
     maggotymeat.ga
@@ -4058,7 +4046,6 @@ module Ped
     mail.spaceports.com
     mail.theboys.com
     mail.usa.com
-    mail.vasarhely.hu
     mail.vrfarm.com.tw
     mail.wtf
     mail.zp.ua
@@ -5637,7 +5624,6 @@ module Ped
     mciek.com
     mciworldcom.net
     md5hashing.net
-    me-mail.hu
     me.com
     mechanicalresumes.com
     medical.net.au
@@ -5943,6 +5929,9 @@ module Ped
     myworldmail.com
     mywrld.top
     myzx.com
+    müll.email
+    müllemail.com
+    müllmail.com
     n1nja.org
     n2.com
     n2business.com
@@ -6516,7 +6505,6 @@ module Ped
     pmail.net
     po.bot.nu
     pobox.com
-    pobox.hu
     pobox.sk
     pochta.ru
     poczta.fm
@@ -7304,7 +7292,6 @@ module Ped
     smtp99.com
     smwg.info
     snail-mail.net
-    snail-mail.ney
     snakebite.com
     snakemail.com
     sndt.net
@@ -7339,7 +7326,6 @@ module Ped
     soisz.com
     sol.dk
     solar-impact.pro
-    soldier.hu
     solution4u.com
     solvemail.info
     solventtrap.wiki
@@ -8487,7 +8473,6 @@ module Ped
     webm4il.in
     webm4il.info
     webmail.bellsouth.net
-    webmail.co.yu
     webmail.co.za
     webmail.hu
     webmail24.to
@@ -8865,6 +8850,7 @@ module Ped
     yuoia.com
     yuuhuu.net
     yuurok.com
+    ywoe@mailed.ro
     yx.dns-cloud.net
     yx48bxdv.ga
     yxzx.net
